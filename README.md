@@ -1,16 +1,14 @@
-## Hi there 👋
+## Bem vindo ao meu perfil 😍
 
-<!--
-**Proanalucia0913/Proanalucia0913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **Ana Lúcia**
 
-Here are some ideas to get you started:
+- Sou professora de Tecnologia e Robotica
+- Vou orientar alunos da 1º série na plataforma Github,
+- Na organização e compartilhamento de projetos 🧑‍🎓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**CONTATO**
+
+analc@prof.educacao.sp.gov.br
+
+![](https://media.tenor.com/2OFUCEVeqFgAAAAM/minnie-mouse-minnie.gif)
+
